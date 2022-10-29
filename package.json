@@ -1,0 +1,23 @@
+{
+  "name": "sampleautomationtestscypressjs",
+  "version": "1.0.0",
+  "description": "The repo represents certain level of skills and knowledge in QA test automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MG0007/SampleAutomaionTestsCypressJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MG0007/SampleAutomaionTestsCypressJS/issues"
+  },
+  "homepage": "https://github.com/MG0007/SampleAutomaionTestsCypressJS#readme",
+  "dependencies": {
+    "cypress": "^3.8.3"
+  }
+}
